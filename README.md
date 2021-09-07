@@ -21,3 +21,14 @@ My home town is nellore
    * Jam
    * Chapathi
    [Links to the AboutMe.md file](https://github.com/manojkota3363/AboutMe.git)
+     
+
+    ---
+
+    # creating tables 
+    | food/drink |location|amount of money |
+    |:----------:|:------:|:--------------:|
+    | chicken|Walmart|10$|
+    | chocolates| Costo|5$|
+    | cool drinks| Sam's|9$|
+    |Chapathis's|patel brothers|10$|
