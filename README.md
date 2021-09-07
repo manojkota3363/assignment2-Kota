@@ -26,7 +26,7 @@ My home town is nellore
     ---
 
     # creating tables 
-    |# food/drink |# location|# amount of money |
+    |food/drink |location|amount of money |
     |:----------:|:------:|:--------------:|
     | chicken|Walmart|10$|
     | chocolates| Costo|5$|
