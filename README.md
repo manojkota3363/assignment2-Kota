@@ -43,4 +43,17 @@ My home town is nellore
    
      ---
 
-     # Combinatorics 
+  # Combinatorics code fencing
+  > Combinatorics is an area of mathematics primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures. <br>
+ link to wikipedia: < https://en.wikipedia.org/wiki/Combinatorics >
+```
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+```
+link to code:<https://cp-algorithms.com/algebra/factorial-divisors.html>
