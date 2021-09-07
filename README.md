@@ -11,3 +11,12 @@ My home town is nellore
     2. Again board flight to New Delhi
     3. And travel to Renigunta airport
 3. Travel to Nellore 
+# List of items
+
+* Drinks
+  * coke
+  * limca
+* Food
+   * Bread
+   * Jam
+   * Chapathi
